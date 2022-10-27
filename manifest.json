@@ -1,7 +1,7 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
+  "name": "My Slime App",
+  "short_name": "My Slime App",
+  "description": "My App has over 10k users active on a daily basis",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
